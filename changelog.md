@@ -1,0 +1,12 @@
+- 0.1.0-beta.2
+  - Fixed not saving forced profile completion.
+  - Fixed error when showing profile of user not in app.store.
+  - Added readme.
+  - Removed caching of completion state because we can't flush it.
+- 0.1.0-beta.1
+  - Admin configuration of fields. Add, updating, deleting and re-ordering.
+  - User entry of answers to fields.
+  - Permission to view profile.
+  - Permission to create/have a profile.
+  - Add link to user profile frontend for editing profile.
+  - Add link to user profile frontend to view profile.
